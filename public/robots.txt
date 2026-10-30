@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://appspark.io/sitemap.xml
+Sitemap: https://appspark-web-six.vercel.app/sitemap.xml
